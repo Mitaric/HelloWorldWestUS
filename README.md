@@ -1,8 +1,8 @@
 ---
-topic: PHP Hello World (Azure West US)
-languages:
+Topic: PHP Hello World (Azure West US)
+Languages:
   - php
-products:
+Products:
   - Azure App Service
   - Azure Web Apps
   - Azure Traffic Manager
