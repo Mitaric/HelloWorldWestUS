@@ -1,5 +1,5 @@
 ---
-topic: PHP Hello World
+topic: PHP Hello West US
 languages:
   - php
 products:
@@ -7,7 +7,7 @@ products:
   - Azure Web Apps
 ---
 
-# PHP Hello World
+# PHP Hello West US
 
 This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
 
