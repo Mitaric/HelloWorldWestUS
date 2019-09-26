@@ -1,15 +1,16 @@
 ---
-topic: PHP Hello West US
+topic: PHP Hello World (Azure West US)
 languages:
   - php
 products:
   - Azure App Service
   - Azure Web Apps
+  - Azure Traffic Manager
 ---
 
-# PHP Hello West US
+# PHP Hello World (Azure West US)
 
-This sample demonstrates a tiny Hello West US PHP app for [Azure App Service](https://docs.microsoft.com/azure/app-service) and [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/)
+This sample demonstrates a tiny Hello World (Azure West US) PHP app for [Azure App Service](https://docs.microsoft.com/azure/app-service) and [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/)
 
 # Contributing
 
